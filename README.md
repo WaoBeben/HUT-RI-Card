@@ -1,4 +1,4 @@
-# hut_ri_card
+# HUT-RI-Card
 
 Kartu ucapan selamat hari kemerdekaan Indonesia ke 76.
 
